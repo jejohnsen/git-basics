@@ -5,3 +5,4 @@ annet innhold
 og fjas
 tekst på nest siste linje
 endring etter reset
+endring
